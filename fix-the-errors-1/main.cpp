@@ -1,6 +1,6 @@
 //
-// Name
-// Date
+// Name Robert Blackwell
+// Date 1/26/2025
 // Fix the Errors #1 Programming Project
 // COSC 1030
 //
