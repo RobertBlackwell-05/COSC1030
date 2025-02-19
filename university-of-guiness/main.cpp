@@ -23,7 +23,7 @@ int main()
     int instate;
     int outofstate;
 
-
+ // I cant get the Cin to be taken in twice. I will do the entire program without ever taking the second cin. It wont let me put in an input for residency.
     cout << "Do you need room and board: " << endl;
     cin >> roomandboard;
 
